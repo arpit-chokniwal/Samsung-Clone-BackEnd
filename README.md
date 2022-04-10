@@ -32,6 +32,4 @@ Backend API for a Samsung clone website, built using NodeJS, Express, Mongoose, 
 
 ## Team Members
 - [Arpit Chokniwal](https://github.com/fabpot11)
-- [Ritesh Kamthe](https://github.com/riteshjk)
-- [Hemant Ahire](https://github.com/Hemantfw13)
-- [Birendra Gupta](https://github.com/birendra20)
+- [Harshal Ghutkule](https://github.com/HarshalGhutkule)
